@@ -16,6 +16,12 @@ system.require( 'file1.js,file2.js' );
 Action.Continue();
 
 
+main(){
+
+
+
+}
+
 
 
 
