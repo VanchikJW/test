@@ -10,7 +10,16 @@ system.require( 'file1.js,file2.js' );
 
 
 
+1
+2
+3
+4
 
+
+
+
+
+6
 
 
 Action.Continue();
